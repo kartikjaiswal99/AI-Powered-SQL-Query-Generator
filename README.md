@@ -1,4 +1,4 @@
-
+[Watch the Project Video](https://youtu.be/Y0WsQOF9olc)
 ---
 
 # AI-Powered SQL Query Generator
